@@ -363,7 +363,7 @@ Now we should tell Linux what $$\textnormal{\color{darkorange}modules}$$ we need
 ```
 module load cutadapt/2.10
 module load gcc/8.2.0
-module load bowtie2/2.4.1
+module load bowtie2/2.4.5
 ```
 So let's add that to the file. 
 
